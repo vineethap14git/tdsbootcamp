@@ -12,15 +12,14 @@ I already knew ...
 - [ x] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
 - [x ] I can edit a file using `nano` (open, edit, save, exit)
 - [ x] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
-- [No ] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
-- [ No] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
+- [x ] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
+- [ x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 
 --- After Day-2 ---
-I learned these things as well, apart from the checklist ...
  
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+ 
 
 The sessions are Ok. 
 
